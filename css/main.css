@@ -1,0 +1,91 @@
+.navbar{
+    margin-bottom: 0 !important;
+    border: 0 !important;
+}
+
+
+.header{ position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 0;
+    font-size: 0.5rem;
+    margin:0px;}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;}
+
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        text-align: center;
+        table-layout: fixed;
+
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+}}
+h2{font-size: 5rem;
+font-family: "Copperplate", fantasy}
+
+p{text-align: left;
+    font-family: "Copperplate", fantasy}
+
+h3{font-size: 4rem;
+    text-align: center;
+    font-family: "Copperplate", fantasy}
+h5{font-size: 4rem;
+       font-family: "Copperplate", fantasy}
+h7{font-size: 5rem;
+    color:white;
+    font-family: "Copperplate", fantasy;
+    font-weight:200;
+}
+h8{font-size: 2rem;
+    color:white;
+    font-family: "Copperplate", fantasy;
+    font-weight:200;}
+
+.navbar-brand{ font-size: 2.1em !important;}
+
+.navbar-nav{font-size: 1em;
+color: white}
+
+.navbar{margin-bottom:0px;}
+
+
+.jumbotron {
+    background: url("https://lh3.googleusercontent.com/jj09ZSx8ed2TdpMtbO6vP-I_PgW7NqcehKqihAS8N5FkyBO7H-85OZDAjwiy3aipNYPZz7b_b8ldQk14Bb6Ejs8dMxlgV1Bo3DkiZ7TymWJsADEQ6GelkayR3EqtaFD-bpBxEG8KBs5oexQ8ck4lTBMpiGaRcCvIychMdGiCCHPOptZ3wTWpWogW1ex02nkVhdHqJCSI_qoCCJVsCDA8UaU_4NGwtcbaAfUVWzgXBZJMBX4CCfHoqtDdCzk6YQiUT178u-CdEEuUTgLskNRYN5jxs0aw-7hFf4Q4MFzeeqtwu0P7RiRx6JrVOn9ll7UH72gPF31OZFq-vZyQp0JOGH_5eE1fdJN2T6GHCoEJlPpGh3PDGKan3gpohQlzOIBi30yF95JiuWDaQoLdeaxd1xTwkgszwSg3rJrI4bb7Floj3e0AWZZ3nRnu-mA5wWDhSeSqJXY2HuegTX-uWd9QCyG49DAuFvHoV3o6qpJP5_hKn2xzSULtj6GvNNOtK2uSydryW0r7u8sKZyBm--aWJXuMAAg0FaC8Fjzqffm-6CHitN7A-lxkMWMdSKPGLiIYEyvebiYSWek0VieUPxzh1aLDyUSM1YYg-yLgnANoxaz6a9-dCXpxu7rJWO07aodd1jmQN-Wo4NsVJH1JB693L8hTnS1iZOOWF80akeEeuIn88lSlmx-KT_9uUxvopGEaF6aAr78AhZ--nuWuMclj6w=w840-h480-no?authuser=0") no-repeat center;
+    background-size: cover;
+    height: auto;
+    margin-bottom:0;
+ }
+.btn-primary {
+    text-align: center;
+    background-color: #dc3545;
+    border-color: #c60063;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: #dc3545;
+    color: #c60063;}
+
+
+/*DEVELOPER: Bailey Chant, IS117-101, Fall 2021 */
+
+
+
